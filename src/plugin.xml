@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>org.igniterealtime.openfire.plugin.precis.PrecisPlugin</class>
+    <name>PRECIS</name>
+    <description>${project.description}</description>
+    <author>Ignite Realtime</author>
+    <version>${project.version}</version>
+    <date>2022-02-21</date>
+
+</plugin>
